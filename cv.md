@@ -23,6 +23,7 @@ I'd like do take more practice and scills.
 ```
 
 ### Scills
+```
 
 * HTML5
 * CSS3
@@ -32,19 +33,27 @@ I'd like do take more practice and scills.
 * Java Script (basic knowledge)
 * Git and GitHub
 
+```
 ### Experience
 
+```
 This is website layout. I use Figma-model from Internet (use HTML, CSS, Jquery, animation).
 https://irinacherepko.github.io/Fashion/ 
+
 https://irinacherepko.github.io/IT/
----
+
+```
 
 ### Aducation
 
+```
 Brest state university the name of A.S.Pushkin.
 I learn programming on YouTube: lesson of Vladilen Minin, cours of Aleksandr Luschenko and other blogers.
----
+
+```
+
 ### English
 
-
+```
 A2. I learn English alone from 0-level online. My level is between A1 and A2 now. I learn English regularly.
+```
