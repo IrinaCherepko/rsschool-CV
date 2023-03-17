@@ -3,7 +3,7 @@
 ![](img_100.png)
 ---
 
-### Contacs
+### Contacts
 
 
 * Phone: +375-29-527-54-28
@@ -18,17 +18,17 @@
 
 I began to learn programming five month ago.
 I don't have any experience. I make different web-sites for practice. And then I save them into GitHub.
-I'd like do take more practice and scills.
+I'd like do take more practice and skills.
 
 ```
 
-### Scills
+### Skills
 ```
 
 * HTML5
 * CSS3
 * Figma
-* SCCS
+* SCSS
 * JQuery (use a little)
 * Java Script (basic knowledge)
 * Git and GitHub
@@ -50,17 +50,17 @@ multiply (1, 1);
 ```
 This is website layout. I use Figma-model from Internet (use HTML, CSS, Jquery, animation).
 
-My layout: (https://irinacherepko.github.io/Fashion/
+My layout: https://irinacherepko.github.io/Fashion/
 
-My layout: (https://irinacherepko.github.io/IT/
+My layout: https://irinacherepko.github.io/IT/
 
 ```
 
-### Aducation
+### Education
 
 ```
 Brest state university the name of A.S.Pushkin.
-I learn programming on YouTube: lesson of Vladilen Minin, cours of Aleksandr Luschenko and other blogers.
+I learn programming on YouTube: lesson of Vladilen Minin, cours of Aleksandr Luschenko and other bloggers.
 
 ```
 
