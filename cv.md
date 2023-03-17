@@ -50,9 +50,9 @@ multiply (1, 1);
 ```
 This is website layout. I use Figma-model from Internet (use HTML, CSS, Jquery, animation).
 
-[My layout](https://irinacherepko.github.io/Fashion/)
+My layout: (https://irinacherepko.github.io/Fashion/
 
-[My layout](https://irinacherepko.github.io/IT/)
+My layout: (https://irinacherepko.github.io/IT/
 
 ```
 
