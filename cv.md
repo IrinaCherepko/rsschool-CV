@@ -34,14 +34,25 @@ I'd like do take more practice and scills.
 * Git and GitHub
 
 ```
+
+### Example of code
+
+```
+function multiply (a, b){
+    c = a * b;
+    return c;
+}
+multiply (1, 1);
+
+```
 ### Experience
 
 ```
 This is website layout. I use Figma-model from Internet (use HTML, CSS, Jquery, animation).
 
-https://irinacherepko.github.io/Fashion/ 
+[My layout] (https://irinacherepko.github.io/Fashion/)
 
-https://irinacherepko.github.io/IT/
+[My layout] (https://irinacherepko.github.io/IT/)
 
 ```
 
