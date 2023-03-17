@@ -38,6 +38,7 @@ I'd like do take more practice and scills.
 
 ```
 This is website layout. I use Figma-model from Internet (use HTML, CSS, Jquery, animation).
+
 https://irinacherepko.github.io/Fashion/ 
 
 https://irinacherepko.github.io/IT/
